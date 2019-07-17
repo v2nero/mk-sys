@@ -9,8 +9,6 @@ Q :=@
 endif
 
 include scripts/defination.mk
-CFLAGS += -I./
-CXXFLAGS += -std=c++11 -I./
 
 #include ...
 
