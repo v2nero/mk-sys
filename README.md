@@ -1,2 +1,2 @@
 # mk-sys
-simple make system
+a simple make system
